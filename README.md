@@ -1,0 +1,2 @@
+# satish
+hadoop hive 
